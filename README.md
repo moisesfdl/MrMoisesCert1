@@ -20,7 +20,7 @@ BankOfAmerica
 		
 		
 		String nome = "Moises Ferreira de Lima";
-		double valorDeUS =  10.5;
+		float valorDeUS =  10500000;
 		String certificadoMonetario = "  "+"Isto é para certificar que o fundo em questão não é proveniente de vendas de drogas pesadas nem de lavagem de dinheiro,"+"\n"
 		+"\n"+"  mas originado de negócios genuínos e legítimos (contrato firmado em uma paraestatal governamental em estados unidos"
 		+"\n"+"  reino) E aiso Esclarecer que o "+"\n\n "
