@@ -49,3 +49,5 @@ BankOfAmerica
 		+diretorDeBureau+"\n"+"  CARIMBO"+CARIMBO;
 		String declareIrpf = MrMoisesCert1;
 		System.out.println(declareIrpf);
+		String declareBankOfAmerica = MrMoisesCert1;
+		System.out.println(declareBankOfAmerica);
