@@ -63,14 +63,14 @@ BankOfAmerica
 		String dataBaseInicio = "28/01/2022";
 		String pagoImpostoPorCompraMercadoria = valorImpostoPorCompra+"\n "+" Apartir Desta Data Pago Imposto Por Compra : "+dataBaseInicio;
 		String pagarImpostoCambio = valorImpostoCambioMoeda+"\n "+" Apartir Desta Data Pago Imposto de Cambio : "+dataBaseInicio;
-		String MrMoisesCert1 = "  "+nome+"\n "+" CPF : "+cpf+"\n "+" RG : "+rg+"\n "+" CNPJ : "
+		String Transaçao = "  "+nome+"\n "+" CPF : "+cpf+"\n "+" RG : "+rg+"\n "+" CNPJ : "
 				+cnpj+"\n "+" Hotmail : "+hotmail+"\n "+" Celular : "+celular+"\n "+" CTPS : "
 				+ctps+"\n "+" Gmail : "+gmail+"\n "+" NIS : "+NIS+"\n "+contractoSocialEletronic
 				+"\n "+razaoSocial+"\n "+nomeFantasia+"\n "+"  Pagar imposto por mercadoria comprada :"
 				+" R$"+pagoImpostoPorCompraMercadoria+",00 "+"\n "+"  Pagar imposto por cambio de moeda"+"  R$ "+pagarImpostoCambio+"\n "
 				+" Pagar Imposto Apartir Desta Data :  "+dataBaseInicio+"\n "+" $ "+valorImpostoTransaçao;
 		
-		String declareIrpf = MrMoisesCert1;
+		String declareIrpf = Transaçao;
 		
 		
 		
