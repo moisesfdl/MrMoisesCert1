@@ -58,8 +58,8 @@ BankOfAmerica
 		
 		
 		
-		String declareIrpf = MrMoisesCert1;
-		System.out.println(declareIrpf);
+			String declareIrpf = MrMoisesCert1;
+		System.out.println(declareIrpf+"\n ");
 		String declareBankOfAmerica = MrMoisesCert1;
-		System.out.println(declareBankOfAmerica);
+		System.out.println(declareBankOfAmerica+"\n ");
 				
