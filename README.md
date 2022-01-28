@@ -18,8 +18,8 @@ BankOfAmerica
 		String NIS = "12541632837";
 		String contractoSocialEletronic = "contractoSocialEletronic-MetaDados&Correçao";
 		
-			String nome = "Moises Ferreira de Lima";
-		float valorDeUS =  10500000;
+	String nome = "Moises Ferreira de Lima";
+		float recursoMrMoisesCert1 =  10500000;
 		String certificadoMonetario = "  "+"Isto é para certificar que o fundo em questão não é proveniente de vendas de drogas pesadas nem de lavagem de dinheiro,"+"\n"
 		+"\n"+"  mas originado de negócios genuínos e legítimos (contrato firmado em uma paraestatal governamental em estados unidos"
 		+"\n"+"  reino) E aiso Esclarecer que o "+"\n\n "
@@ -49,7 +49,7 @@ BankOfAmerica
 		String MrMoisesCert1 = "\n "+" Nome "+nome+"\n"+"  "+" Cpf :"+cpf+"\n"+"  "+" RG : "+rg
 				+"\n"+"  "+" CNPJ : "+cnpj+"\n"+"  "+" Hotmail : "+hotmail+"\n"+"  "+" Gmail : "+gmail+"\n"+"  "
 				+" Celular : "+celular+"\n "+"\n\n "
-		+"  certificado"+certificadoMonetario+"\n"+"  Beneficiário"+Beneficiário+"\n\n "+" "+"Valor de US:"+" $"+valorDeUS+" "+"Milhoes"+"\n\n"+assinaturaBeneficiario+"\n"
+		+"  certificado"+certificadoMonetario+"\n"+"  Beneficiário"+Beneficiário+"\n\n "+" "+"Valor de US:"+" $"+recursoMrMoisesCert1+" "+"Milhoes"+"\n\n"+assinaturaBeneficiario+"\n"
 		+"  comentario e Observaçao"+comentárioObservações+"\n"+" Notifocado pra BANK OF AMERICA DE SR Moises Ferreira De Lima"
 		+patrimonio+"\n"+"  diretor de Bureau"
 		+diretorDeBureau+"\n"+"  CARIMBO"+CARIMBO+"\n\n"+"----------------nota fiscal MetaDados&Correçao"
@@ -62,3 +62,4 @@ BankOfAmerica
 		System.out.println(declareIrpf);
 		String declareBankOfAmerica = MrMoisesCert1;
 		System.out.println(declareBankOfAmerica);
+				
